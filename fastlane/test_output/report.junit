@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<testsuites name='collate_errorsUITests.xctest' tests='30' failures='6' retries='9'>
+  <testsuite name='collate_errorsUITests.collate_errorsUITests2' tests='10' failures='1'>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample21' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests2.swift:35 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample22' time='7.541'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample23' time='5.215' retries='2'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample24' time='7.090'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample25' time='5.464' retries='2'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample26' time='8.856'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample27' time='5.437'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample28' time='6.416' retries='1'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample29' time='6.304' retries='1'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests2' name='testExample30' time='5.467' retries='2'/>
+  </testsuite>
+  <testsuite name='collate_errorsUITests.collate_errorsUITests1' tests='10' failures='3'>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample1' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests1.swift:35 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample10' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests1.swift:125 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample2' time='5.346' retries='2'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample3' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests1.swift:55 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample4' time='5.316' retries='2'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample5' time='6.274' retries='1'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample6' time='6.150'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample7' time='5.745'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample8' time='5.348' retries='2'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests1' name='testExample9' time='8.048'/>
+  </testsuite>
+  <testsuite name='collate_errorsUITests.collate_errorsUITests3' tests='10' failures='2'>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample31' time='9.219'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample32' time='8.541'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample33' time='6.321' retries='1'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample34' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests3.swift:65 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample35' retries='2'>
+      <failure message='XCTAssertTrue failed'>
+         collate_errorsUITests3.swift:75 
+      </failure>
+    </testcase>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample36' time='6.426'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample37' time='6.047'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample38' time='5.421'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample39' time='8.172'/>
+    <testcase classname='collate_errorsUITests.collate_errorsUITests3' name='testExample40' time='6.016' retries='2'/>
+  </testsuite>
+</testsuites>

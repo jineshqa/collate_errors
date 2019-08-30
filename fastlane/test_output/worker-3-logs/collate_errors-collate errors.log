@@ -1,0 +1,61 @@
+
+Warning: -disable-concurrent-testing is deprecated. Use -disable-concurrent-destination-testing instead.
+User defaults from command line:
+    IDEBuildOperationResultBundlePath = /Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result
+    IDEDerivedDataPathOverride = /var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/derived_data_path20190830-50222-19txnzf-worker-3
+    IDETestRunOnlyIdentifiers = (
+    "collate_errorsUITests/collate_errorsUITests3/testExample34",
+    "collate_errorsUITests/collate_errorsUITests3/testExample35",
+    "collate_errorsUITests/collate_errorsUITests3/testExample40"
+)
+    IDETestRunSpecificationPath = /Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/DerivedData/collate_errors/Build/Products/collate errors_iphonesimulator12.2-x86_64.xctestrun
+
+Testing started on 'iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360>'
+2019-08-30 15:16:57.915244-0700 collate_errorsUITests-Runner[51264:7583617] Running tests...
+2019-08-30 15:16:58.321221-0700 collate_errorsUITests-Runner[51264:7583617] [AXMediaCommon] Unable to look up screen scale
+2019-08-30 15:16:58.321439-0700 collate_errorsUITests-Runner[51264:7583617] [AXMediaCommon] Unexpected physical screen orientation
+2019-08-30 15:16:58.340672-0700 collate_errorsUITests-Runner[51264:7583617] [AXMediaCommon] Unable to look up screen scale
+2019-08-30 15:16:58.344797-0700 collate_errorsUITests-Runner[51264:7583617] [AXMediaCommon] Unable to look up screen scale
+2019-08-30 15:16:58.345303-0700 collate_errorsUITests-Runner[51264:7583617] [AXMediaCommon] Unexpected physical screen orientation
+Test Suite 'Selected tests' started at 2019-08-30 15:16:58.465
+Test Suite 'collate_errorsUITests.xctest' started at 2019-08-30 15:16:58.466
+Test Suite 'collate_errorsUITests3' started at 2019-08-30 15:16:58.468
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample34]' started.
+    t =     0.00s Start Test at 2019-08-30 15:16:58.471
+    t =     0.06s Set Up
+    t =     0.07s     Open pro.jinesh.collate-errors
+    t =     0.10s         Launch pro.jinesh.collate-errors
+    t =     3.49s             Wait for accessibility to load
+    t =     4.46s             Wait for pro.jinesh.collate-errors to idle
+    t =     5.50s Assertion Failure: collate_errorsUITests3.swift:65: XCTAssertTrue failed
+    t =     5.52s Tear Down
+    t =     5.52s     Terminate pro.jinesh.collate-errors:51266
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample34]' failed (6.608 seconds).
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample35]' started.
+    t =     0.00s Start Test at 2019-08-30 15:17:05.077
+    t =     0.04s Set Up
+    t =     0.04s     Open pro.jinesh.collate-errors
+    t =     0.07s         Launch pro.jinesh.collate-errors
+    t =     3.39s             Wait for pro.jinesh.collate-errors to idle
+    t =     4.82s Assertion Failure: collate_errorsUITests3.swift:75: XCTAssertTrue failed
+    t =     4.84s Tear Down
+    t =     4.84s     Terminate pro.jinesh.collate-errors:51273
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample35]' failed (5.890 seconds).
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample40]' started.
+    t =     0.00s Start Test at 2019-08-30 15:17:10.967
+    t =     0.04s Set Up
+    t =     0.04s     Open pro.jinesh.collate-errors
+    t =     0.08s         Launch pro.jinesh.collate-errors
+    t =     2.75s             Wait for accessibility to load
+    t =     3.50s             Wait for pro.jinesh.collate-errors to idle
+    t =     4.99s Tear Down
+    t =     4.99s     Terminate pro.jinesh.collate-errors:51274
+Test Case '-[collate_errorsUITests.collate_errorsUITests3 testExample40]' passed (6.016 seconds).
+Test Suite 'collate_errorsUITests3' failed at 2019-08-30 15:17:16.985.
+	 Executed 3 tests, with 2 failures (0 unexpected) in 18.513 (18.517) seconds
+Test Suite 'collate_errorsUITests.xctest' failed at 2019-08-30 15:17:16.986.
+	 Executed 3 tests, with 2 failures (0 unexpected) in 18.513 (18.519) seconds
+Test Suite 'Selected tests' failed at 2019-08-30 15:17:16.988.
+	 Executed 3 tests, with 2 failures (0 unexpected) in 18.513 (18.522) seconds
+Generating coverage data...
+Generated coverage report: /Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/action.xccovreport

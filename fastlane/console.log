@@ -1,0 +1,573 @@
+[0;96;49m[worker 2] [0m[11:58:46]: ▸ [0;35;49m[0m[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 40.096 elapsed -- Testing started completed.[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 40.096 sec, +40.096 sec -- end[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49mFailing tests:[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m	collate_errorsUITests:[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m		collate_errorsUITests2.testExample25()[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m		collate_errorsUITests2.testExample26()[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49mTest session results and logs:[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-2/collate errors.test_result[0m
+[0;96;49m[worker 2] [0m[11:59:01]: ▸ [0;35;49m** TEST EXECUTE FAILED **[0m
+[0;96;49m[worker 2] [0m2019-08-30 11:58:21.238 xcodebuild[45510:7486947]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:
+[0;96;49m[worker 2] [0m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-2/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-100D978A-3786-4144-98C9-D6E7214F5B48/collate_errorsUITests-C16D5337-F7F1-4358-B369-8555F7347AA2/Session-collate_errorsUITests-2019-08-30_115821-SEZyUy.log
+[0;96;49m[worker 2] [0m2019-08-30 11:58:21.238 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: (5A9F41BA-E914-4CC1-BF21-4742B15F20F0) Beginning test session collate_errorsUITests-5A9F41BA-E914-4CC1-BF21-4742B15F20F0 at 2019-08-30 11:58:21.238 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f96150541f0> {
+[0;96;49m[worker 2] [0m		SimDevice: iPhone Xʀ Clone 2 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (07AFC86B-E4D2-4CC1-9BC8-6DF3B7F79C8B, iOS 12.2, Booted)
+[0;96;49m[worker 2] [0m} (12.2 (16E226))
+[0;96;49m[worker 2] [0m2019-08-30 11:58:21.477 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: (5A9F41BA-E914-4CC1-BF21-4742B15F20F0) Finished requesting crash reports. Continuing with testing.
+[0;96;49m[worker 2] [0m[39;1mSelected tests[0m
+[0;96;49m[worker 2] [0mTest Suite [39;1mcollate_errorsUITests.xctest[0m started
+[0;96;49m[worker 2] [0m[39;1mcollate_errorsUITests2[0m
+[0;96;49m[worker 2] [0m    [31m✗[0m testExample25, XCTAssertTrue failed
+[0;96;49m[worker 2] [0m    [31m✗[0m testExample26, XCTAssertTrue failed
+[0;96;49m[worker 2] [0m    [32;1m✓[0m testExample27 ([31m5.451[0m seconds)
+[0;96;49m[worker 2] [0m    [32;1m✓[0m testExample30 ([31m5.524[0m seconds)
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0mcollate_errorsUITests.collate_errorsUITests2
+[0;96;49m[worker 2] [0m  testExample25, [31mXCTAssertTrue failed[0m
+[0;96;49m[worker 2] [0m  [36mcollate_errorsUITests2.swift:75[0m
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m  testExample26, [31mXCTAssertTrue failed[0m
+[0;96;49m[worker 2] [0m  [36mcollate_errorsUITests2.swift:85[0m
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m[31m	 Executed 4 tests, with 2 failures (0 unexpected) in 22.486 (22.491) seconds
+[0;96;49m[worker 2] [0m[0m
+[0;96;49m[worker 2] [0m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 40.096 elapsed -- Testing started completed.
+[0;96;49m[worker 2] [0m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+[0;96;49m[worker 2] [0m2019-08-30 11:59:01.322 xcodebuild[45510:7486929] [MT] IDETestOperationsObserverDebug: 40.096 sec, +40.096 sec -- end
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0mFailing tests:
+[0;96;49m[worker 2] [0m	collate_errorsUITests:
+[0;96;49m[worker 2] [0m		collate_errorsUITests2.testExample25()
+[0;96;49m[worker 2] [0m		collate_errorsUITests2.testExample26()
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0mTest session results and logs:
+[0;96;49m[worker 2] [0m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-2/collate errors.test_result
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m** TEST EXECUTE FAILED **
+[0;96;49m[worker 2] [0m[11:59:01]: [0;31;49mExit status: 65[0m
+[0;96;49m[worker 2] [0m+--------------------+---+
+[0;96;49m[worker 2] [0m|      Test Results      |
+[0;96;49m[worker 2] [0m+--------------------+---+
+[0;96;49m[worker 2] [0m| Number of tests    | 4 |
+[0;96;49m[worker 2] [0m| Number of failures | [0;31;49m2[0m |
+[0;96;49m[worker 2] [0m+--------------------+---+
+[0;96;49m[worker 2] [0m
+[0;96;49m[worker 2] [0m[11:59:01]: [0;33;49mThe run of tests would finish with failures due to fragile tests here.[0m
+[0;93;49m[worker 3] [0m[11:53:07]: Starting scan #1 with 10 tests for batch #3.
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m|                          [0;32;49mSummary for scan 2.130.0[0m                           |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m| fail_build                           | false                                |
+[0;93;49m[worker 3] [0m| scheme                               | collate errors                       |
+[0;93;49m[worker 3] [0m| result_bundle                        | true                                 |
+[0;93;49m[worker 3] [0m| output_directory                     | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/fastlane/test_o  |
+[0;93;49m[worker 3] [0m|                                      | utput/collate_errorsUITests-batch-3  |
+[0;93;49m[worker 3] [0m| output_types                         | junit,html                           |
+[0;93;49m[worker 3] [0m| buildlog_path                        | ./fastlane/test_output//worker-3-lo  |
+[0;93;49m[worker 3] [0m|                                      | gs                                   |
+[0;93;49m[worker 3] [0m| code_coverage                        | true                                 |
+[0;93;49m[worker 3] [0m| project                              | ./collate_errors.xcodeproj           |
+[0;93;49m[worker 3] [0m| skip_detect_devices                  | false                                |
+[0;93;49m[worker 3] [0m| force_quit_simulator                 | false                                |
+[0;93;49m[worker 3] [0m| reset_simulator                      | false                                |
+[0;93;49m[worker 3] [0m| reinstall_app                        | false                                |
+[0;93;49m[worker 3] [0m| only_testing                         | ["collate_errorsUITests/collate_err  |
+[0;93;49m[worker 3] [0m|                                      | orsUITests3/testExample31",          |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample32",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample33",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample34",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample35",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample36",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample37",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample38",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample39",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample40"]           |
+[0;93;49m[worker 3] [0m| xctestrun                            | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/DerivedData/col  |
+[0;93;49m[worker 3] [0m|                                      | late_errors/Build/Products/collate   |
+[0;93;49m[worker 3] [0m|                                      | errors_iphonesimulator12.2-x86_64.x  |
+[0;93;49m[worker 3] [0m|                                      | ctestrun                             |
+[0;93;49m[worker 3] [0m| clean                                | false                                |
+[0;93;49m[worker 3] [0m| open_report                          | false                                |
+[0;93;49m[worker 3] [0m| output_files                         | report.junit,report.html             |
+[0;93;49m[worker 3] [0m| include_simulator_logs               | false                                |
+[0;93;49m[worker 3] [0m| derived_data_path                    | /var/folders/_v/385bsl711hj8mg07gcv  |
+[0;93;49m[worker 3] [0m|                                      | 518y80000gn/T/derived_data_path2019  |
+[0;93;49m[worker 3] [0m|                                      | 0830-44678-w6pu1u-worker-3           |
+[0;93;49m[worker 3] [0m| should_zip_build_products            | false                                |
+[0;93;49m[worker 3] [0m| use_clang_report_name                | false                                |
+[0;93;49m[worker 3] [0m| disable_concurrent_testing           | true                                 |
+[0;93;49m[worker 3] [0m| skip_build                           | false                                |
+[0;93;49m[worker 3] [0m| xcargs                               |  -parallel-testing-enabled NO        |
+[0;93;49m[worker 3] [0m| slack_use_webhook_configured_userna  | false                                |
+[0;93;49m[worker 3] [0m| me_and_icon                          |                                      |
+[0;93;49m[worker 3] [0m| slack_username                       | fastlane                             |
+[0;93;49m[worker 3] [0m| slack_icon_url                       | https://s3-eu-west-1.amazonaws.com/  |
+[0;93;49m[worker 3] [0m|                                      | fastlane.tools/fastlane.png          |
+[0;93;49m[worker 3] [0m| skip_slack                           | false                                |
+[0;93;49m[worker 3] [0m| slack_only_on_failure                | false                                |
+[0;93;49m[worker 3] [0m| xcodebuild_command                   | env NSUnbufferedIO=YES xcodebuild    |
+[0;93;49m[worker 3] [0m| xcode_path                           | /Applications/Xcode.app              |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[11:53:07]: [0;36;49m$ set -o pipefail && env NSUnbufferedIO=YES xcodebuild -destination 'platform=iOS Simulator,id=79906515-9556-424B-B93B-D5A70D16750C' -derivedDataPath '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/derived_data_path20190830-44678-w6pu1u-worker-3' -resultBundlePath '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result' -disable-concurrent-testing -enableCodeCoverage YES -xctestrun '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/DerivedData/collate_errors/Build/Products/collate errors_iphonesimulator12.2-x86_64.xctestrun'  -parallel-testing-enabled NO -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample31 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample32 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample33 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample34 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample35 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample36 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample37 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample38 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample39 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample40 test-without-building | tee '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/worker-3-logs/collate_errors-collate errors.log' | xcpretty  --report junit --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report.junit' --report html --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report.html' --report junit --output '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/junit_report20190830-44959-5o7g2r' [0m
+[0;93;49m[worker 3] [0m[11:53:07]: ▸ [0;35;49mLoading...[0m
+[0;93;49m[worker 3] [0m[11:53:10]: ▸ [0;35;49m2019-08-30 11:53:10.715 xcodebuild[44995:7475655]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:[0m
+[0;93;49m[worker 3] [0m[11:53:10]: ▸ [0;35;49m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-514834BE-98D7-490E-8720-D9DAEB18A6A8/collate_errorsUITests-08DACC26-BC2C-4CA7-9BF2-7D5B743D30A2/Session-collate_errorsUITests-2019-08-30_115310-U9mydL.log[0m
+[0;93;49m[worker 3] [0m[11:53:10]: ▸ [0;35;49m2019-08-30 11:53:10.716 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: (1E415CF3-D087-4F7A-AD08-FA937AD970CD) Beginning test session collate_errorsUITests-1E415CF3-D087-4F7A-AD08-FA937AD970CD at 2019-08-30 11:53:10.716 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f97b6250db0> {[0m
+[0;93;49m[worker 3] [0m[11:53:10]: ▸ [0;35;49m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)[0m
+[0;93;49m[worker 3] [0m[11:53:10]: ▸ [0;35;49m} (12.2 (16E226))[0m
+[0;93;49m[worker 3] [0m[11:54:39]: ▸ [0;35;49m2019-08-30 11:54:39.969 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: (1E415CF3-D087-4F7A-AD08-FA937AD970CD) Finished requesting crash reports. Continuing with testing.[0m
+[0;93;49m[worker 3] [0m[11:54:45]: ▸ [0;35;49mSelected tests[0m
+[0;93;49m[worker 3] [0m[11:54:45]: ▸ [0;35;49mTest Suite [0m[0;35;49mcollate_errorsUITests.xctest[0m[0;35;49m started[0m
+[0;93;49m[worker 3] [0m[11:54:45]: ▸ [0;35;49mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[11:54:56]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample31 ([0m[0;35;49m11.066[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:55:02]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample32, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:55:10]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample33, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:55:19]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample34 ([0m[0;35;49m7.044[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:55:27]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample35 ([0m[0;35;49m8.016[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:55:34]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample36 ([0m[0;35;49m7.009[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:55:42]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample37 ([0m[0;35;49m7.671[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:55:46]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample38, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:55:55]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample39 ([0m[0;35;49m7.846[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:56:00]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample40, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:56:01]: ▸ [0;35;49mcollate_errorsUITests.collate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[11:56:01]: ▸ [0;35;49m  testExample32, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:45[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  testExample33, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  testExample38, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  testExample40, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:125[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m[31m	 Executed 10 tests, with 4 failures (0 unexpected) in 76.219 (76.230) seconds[0m
+[0;93;49m[worker 3] [0m[11:56:02]: ▸ [0;35;49m[0m[0m
+[0;93;49m[worker 3] [0m[11:56:47]: ▸ [0;35;49m2019-08-30 11:56:47.370 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 216.672 elapsed -- Testing started completed.[0m
+[0;93;49m[worker 3] [0m[11:56:47]: ▸ [0;35;49m2019-08-30 11:56:47.371 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start[0m
+[0;93;49m[worker 3] [0m[11:56:47]: ▸ [0;35;49m2019-08-30 11:56:47.371 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 216.672 sec, +216.672 sec -- end[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49mFailing tests:[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m	collate_errorsUITests:[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m		collate_errorsUITests3.testExample32()[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m		collate_errorsUITests3.testExample33()[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m		collate_errorsUITests3.testExample38()[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m		collate_errorsUITests3.testExample40()[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49mTest session results and logs:[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result[0m
+[0;93;49m[worker 3] [0m[11:56:48]: ▸ [0;35;49m** TEST EXECUTE FAILED **[0m
+[0;93;49m[worker 3] [0m2019-08-30 11:53:10.715 xcodebuild[44995:7475655]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:
+[0;93;49m[worker 3] [0m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-514834BE-98D7-490E-8720-D9DAEB18A6A8/collate_errorsUITests-08DACC26-BC2C-4CA7-9BF2-7D5B743D30A2/Session-collate_errorsUITests-2019-08-30_115310-U9mydL.log
+[0;93;49m[worker 3] [0m2019-08-30 11:53:10.716 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: (1E415CF3-D087-4F7A-AD08-FA937AD970CD) Beginning test session collate_errorsUITests-1E415CF3-D087-4F7A-AD08-FA937AD970CD at 2019-08-30 11:53:10.716 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f97b6250db0> {
+[0;93;49m[worker 3] [0m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)
+[0;93;49m[worker 3] [0m} (12.2 (16E226))
+[0;93;49m[worker 3] [0m2019-08-30 11:54:39.969 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: (1E415CF3-D087-4F7A-AD08-FA937AD970CD) Finished requesting crash reports. Continuing with testing.
+[0;93;49m[worker 3] [0m[39;1mSelected tests[0m
+[0;93;49m[worker 3] [0mTest Suite [39;1mcollate_errorsUITests.xctest[0m started
+[0;93;49m[worker 3] [0m[39;1mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample31 ([31m11.066[0m seconds)
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample32, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample33, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample34 ([31m7.044[0m seconds)
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample35 ([31m8.016[0m seconds)
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample36 ([31m7.009[0m seconds)
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample37 ([31m7.671[0m seconds)
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample38, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample39 ([31m7.846[0m seconds)
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample40, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mcollate_errorsUITests.collate_errorsUITests3
+[0;93;49m[worker 3] [0m  testExample32, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:45[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample33, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample38, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample40, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:125[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[31m	 Executed 10 tests, with 4 failures (0 unexpected) in 76.219 (76.230) seconds
+[0;93;49m[worker 3] [0m[0m
+[0;93;49m[worker 3] [0m2019-08-30 11:56:47.370 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 216.672 elapsed -- Testing started completed.
+[0;93;49m[worker 3] [0m2019-08-30 11:56:47.371 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+[0;93;49m[worker 3] [0m2019-08-30 11:56:47.371 xcodebuild[44995:7475588] [MT] IDETestOperationsObserverDebug: 216.672 sec, +216.672 sec -- end
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mFailing tests:
+[0;93;49m[worker 3] [0m	collate_errorsUITests:
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample32()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample33()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample38()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample40()
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mTest session results and logs:
+[0;93;49m[worker 3] [0m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m** TEST EXECUTE FAILED **
+[0;93;49m[worker 3] [0m[11:56:54]: [0;31;49mExit status: 65[0m
+[0;93;49m[worker 3] [0m+--------------------+----+
+[0;93;49m[worker 3] [0m|      Test Results       |
+[0;93;49m[worker 3] [0m+--------------------+----+
+[0;93;49m[worker 3] [0m| Number of tests    | 10 |
+[0;93;49m[worker 3] [0m| Number of failures | [0;31;49m4[0m  |
+[0;93;49m[worker 3] [0m+--------------------+----+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[11:56:54]: [0;33;49mThe run of tests would finish with failures due to fragile tests here.[0m
+[0;93;49m[worker 3] [0m[11:56:54]: [0;32;49m--------------------------------------------------------------------[0m
+[0;93;49m[worker 3] [0m[11:56:54]: [0;32;49mSince we are using :multi_scan, we can re-run just those failing tests![0m
+[0;93;49m[worker 3] [0m[11:56:54]: [0;32;49m--------------------------------------------------------------------[0m
+[0;93;49m[worker 3] [0m[11:56:55]: Starting scan #2 with 4 tests for batch #3.
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m|                          [0;32;49mSummary for scan 2.130.0[0m                           |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m| fail_build                           | false                                |
+[0;93;49m[worker 3] [0m| scheme                               | collate errors                       |
+[0;93;49m[worker 3] [0m| result_bundle                        | true                                 |
+[0;93;49m[worker 3] [0m| output_directory                     | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/fastlane/test_o  |
+[0;93;49m[worker 3] [0m|                                      | utput/collate_errorsUITests-batch-3  |
+[0;93;49m[worker 3] [0m| output_types                         | junit,html                           |
+[0;93;49m[worker 3] [0m| buildlog_path                        | ./fastlane/test_output//worker-3-lo  |
+[0;93;49m[worker 3] [0m|                                      | gs                                   |
+[0;93;49m[worker 3] [0m| code_coverage                        | true                                 |
+[0;93;49m[worker 3] [0m| project                              | ./collate_errors.xcodeproj           |
+[0;93;49m[worker 3] [0m| skip_detect_devices                  | false                                |
+[0;93;49m[worker 3] [0m| force_quit_simulator                 | false                                |
+[0;93;49m[worker 3] [0m| reset_simulator                      | false                                |
+[0;93;49m[worker 3] [0m| reinstall_app                        | false                                |
+[0;93;49m[worker 3] [0m| only_testing                         | ["collate_errorsUITests/collate_err  |
+[0;93;49m[worker 3] [0m|                                      | orsUITests3/testExample32",          |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample33",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample38",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample40"]           |
+[0;93;49m[worker 3] [0m| xctestrun                            | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/DerivedData/col  |
+[0;93;49m[worker 3] [0m|                                      | late_errors/Build/Products/collate   |
+[0;93;49m[worker 3] [0m|                                      | errors_iphonesimulator12.2-x86_64.x  |
+[0;93;49m[worker 3] [0m|                                      | ctestrun                             |
+[0;93;49m[worker 3] [0m| clean                                | false                                |
+[0;93;49m[worker 3] [0m| open_report                          | false                                |
+[0;93;49m[worker 3] [0m| output_files                         | report-2.junit,report-2.html         |
+[0;93;49m[worker 3] [0m| include_simulator_logs               | false                                |
+[0;93;49m[worker 3] [0m| derived_data_path                    | /var/folders/_v/385bsl711hj8mg07gcv  |
+[0;93;49m[worker 3] [0m|                                      | 518y80000gn/T/derived_data_path2019  |
+[0;93;49m[worker 3] [0m|                                      | 0830-44678-w6pu1u-worker-3           |
+[0;93;49m[worker 3] [0m| should_zip_build_products            | false                                |
+[0;93;49m[worker 3] [0m| use_clang_report_name                | false                                |
+[0;93;49m[worker 3] [0m| disable_concurrent_testing           | true                                 |
+[0;93;49m[worker 3] [0m| skip_build                           | false                                |
+[0;93;49m[worker 3] [0m| xcargs                               |  -parallel-testing-enabled NO        |
+[0;93;49m[worker 3] [0m| slack_use_webhook_configured_userna  | false                                |
+[0;93;49m[worker 3] [0m| me_and_icon                          |                                      |
+[0;93;49m[worker 3] [0m| slack_username                       | fastlane                             |
+[0;93;49m[worker 3] [0m| slack_icon_url                       | https://s3-eu-west-1.amazonaws.com/  |
+[0;93;49m[worker 3] [0m|                                      | fastlane.tools/fastlane.png          |
+[0;93;49m[worker 3] [0m| skip_slack                           | false                                |
+[0;93;49m[worker 3] [0m| slack_only_on_failure                | false                                |
+[0;93;49m[worker 3] [0m| xcodebuild_command                   | env NSUnbufferedIO=YES xcodebuild    |
+[0;93;49m[worker 3] [0m| xcode_path                           | /Applications/Xcode.app              |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[11:56:55]: [0;36;49m$ set -o pipefail && env NSUnbufferedIO=YES xcodebuild -destination 'platform=iOS Simulator,id=79906515-9556-424B-B93B-D5A70D16750C' -derivedDataPath '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/derived_data_path20190830-44678-w6pu1u-worker-3' -resultBundlePath '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result' -disable-concurrent-testing -enableCodeCoverage YES -xctestrun '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/DerivedData/collate_errors/Build/Products/collate errors_iphonesimulator12.2-x86_64.xctestrun'  -parallel-testing-enabled NO -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample32 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample33 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample38 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample40 test-without-building | tee '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/worker-3-logs/collate_errors-collate errors.log' | xcpretty  --report junit --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report-2.junit' --report html --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report-2.html' --report junit --output '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/junit_report20190830-44959-uo9ixc' [0m
+[0;93;49m[worker 3] [0m[11:56:55]: ▸ [0;35;49mLoading...[0m
+[0;93;49m[worker 3] [0m[11:56:57]: ▸ [0;35;49m2019-08-30 11:56:57.195 xcodebuild[45325:7483648]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:[0m
+[0;93;49m[worker 3] [0m[11:56:57]: ▸ [0;35;49m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-EB6ACAB0-9CD3-456E-B4B1-DF44F5F38134/collate_errorsUITests-799C9E33-7AD3-4B10-A568-A0927F149844/Session-collate_errorsUITests-2019-08-30_115657-20Q1Ft.log[0m
+[0;93;49m[worker 3] [0m[11:56:57]: ▸ [0;35;49m2019-08-30 11:56:57.196 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: (2F47C68B-81D0-440A-82F2-3FA17AD73143) Beginning test session collate_errorsUITests-2F47C68B-81D0-440A-82F2-3FA17AD73143 at 2019-08-30 11:56:57.196 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f9e16102570> {[0m
+[0;93;49m[worker 3] [0m[11:56:57]: ▸ [0;35;49m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)[0m
+[0;93;49m[worker 3] [0m[11:56:57]: ▸ [0;35;49m} (12.2 (16E226))[0m
+[0;93;49m[worker 3] [0m[11:58:01]: ▸ [0;35;49m2019-08-30 11:58:01.075 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: (2F47C68B-81D0-440A-82F2-3FA17AD73143) Finished requesting crash reports. Continuing with testing.[0m
+[0;93;49m[worker 3] [0m[11:58:04]: ▸ [0;35;49mSelected tests[0m
+[0;93;49m[worker 3] [0m[11:58:04]: ▸ [0;35;49mTest Suite [0m[0;35;49mcollate_errorsUITests.xctest[0m[0;35;49m started[0m
+[0;93;49m[worker 3] [0m[11:58:04]: ▸ [0;35;49mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[11:58:09]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample32, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:14]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample33, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:20]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample38, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample40 ([0m[0;35;49m6.803[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49mcollate_errorsUITests.collate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  testExample32, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:45[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  testExample33, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  testExample38, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m[31m	 Executed 4 tests, with 3 failures (0 unexpected) in 24.227 (24.230) seconds[0m
+[0;93;49m[worker 3] [0m[11:58:28]: ▸ [0;35;49m[0m[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 126.941 elapsed -- Testing started completed.[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 126.941 sec, +126.941 sec -- end[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49mFailing tests:[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m	collate_errorsUITests:[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m		collate_errorsUITests3.testExample32()[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m		collate_errorsUITests3.testExample33()[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m		collate_errorsUITests3.testExample38()[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49mTest session results and logs:[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result[0m
+[0;93;49m[worker 3] [0m[11:59:04]: ▸ [0;35;49m** TEST EXECUTE FAILED **[0m
+[0;93;49m[worker 3] [0m2019-08-30 11:56:57.195 xcodebuild[45325:7483648]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:
+[0;93;49m[worker 3] [0m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-EB6ACAB0-9CD3-456E-B4B1-DF44F5F38134/collate_errorsUITests-799C9E33-7AD3-4B10-A568-A0927F149844/Session-collate_errorsUITests-2019-08-30_115657-20Q1Ft.log
+[0;93;49m[worker 3] [0m2019-08-30 11:56:57.196 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: (2F47C68B-81D0-440A-82F2-3FA17AD73143) Beginning test session collate_errorsUITests-2F47C68B-81D0-440A-82F2-3FA17AD73143 at 2019-08-30 11:56:57.196 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7f9e16102570> {
+[0;93;49m[worker 3] [0m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)
+[0;93;49m[worker 3] [0m} (12.2 (16E226))
+[0;93;49m[worker 3] [0m2019-08-30 11:58:01.075 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: (2F47C68B-81D0-440A-82F2-3FA17AD73143) Finished requesting crash reports. Continuing with testing.
+[0;93;49m[worker 3] [0m[39;1mSelected tests[0m
+[0;93;49m[worker 3] [0mTest Suite [39;1mcollate_errorsUITests.xctest[0m started
+[0;93;49m[worker 3] [0m[39;1mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample32, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample33, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample38, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample40 ([31m6.803[0m seconds)
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mcollate_errorsUITests.collate_errorsUITests3
+[0;93;49m[worker 3] [0m  testExample32, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:45[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample33, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample38, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[31m	 Executed 4 tests, with 3 failures (0 unexpected) in 24.227 (24.230) seconds
+[0;93;49m[worker 3] [0m[0m
+[0;93;49m[worker 3] [0m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 126.941 elapsed -- Testing started completed.
+[0;93;49m[worker 3] [0m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+[0;93;49m[worker 3] [0m2019-08-30 11:59:04.123 xcodebuild[45325:7483583] [MT] IDETestOperationsObserverDebug: 126.941 sec, +126.941 sec -- end
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mFailing tests:
+[0;93;49m[worker 3] [0m	collate_errorsUITests:
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample32()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample33()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample38()
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mTest session results and logs:
+[0;93;49m[worker 3] [0m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m** TEST EXECUTE FAILED **
+[0;93;49m[worker 3] [0m[11:59:10]: [0;31;49mExit status: 65[0m
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m|      Test Results      |
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m| Number of tests    | 4 |
+[0;93;49m[worker 3] [0m| Number of failures | [0;31;49m3[0m |
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[11:59:10]: [0;33;49mThe run of tests would finish with failures due to fragile tests here.[0m
+[0;93;49m[worker 3] [0m[11:59:10]: [0;32;49m--------------------------------------------------------------------[0m
+[0;93;49m[worker 3] [0m[11:59:10]: [0;32;49mSince we are using :multi_scan, we can re-run just those failing tests![0m
+[0;93;49m[worker 3] [0m[11:59:10]: [0;32;49m--------------------------------------------------------------------[0m
+[0;93;49m[worker 3] [0m[11:59:11]: Starting scan #3 with 3 tests for batch #3.
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m|                          [0;32;49mSummary for scan 2.130.0[0m                           |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m| fail_build                           | false                                |
+[0;93;49m[worker 3] [0m| scheme                               | collate errors                       |
+[0;93;49m[worker 3] [0m| result_bundle                        | true                                 |
+[0;93;49m[worker 3] [0m| output_directory                     | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/fastlane/test_o  |
+[0;93;49m[worker 3] [0m|                                      | utput/collate_errorsUITests-batch-3  |
+[0;93;49m[worker 3] [0m| output_types                         | junit,html                           |
+[0;93;49m[worker 3] [0m| buildlog_path                        | ./fastlane/test_output//worker-3-lo  |
+[0;93;49m[worker 3] [0m|                                      | gs                                   |
+[0;93;49m[worker 3] [0m| code_coverage                        | true                                 |
+[0;93;49m[worker 3] [0m| project                              | ./collate_errors.xcodeproj           |
+[0;93;49m[worker 3] [0m| skip_detect_devices                  | false                                |
+[0;93;49m[worker 3] [0m| force_quit_simulator                 | false                                |
+[0;93;49m[worker 3] [0m| reset_simulator                      | false                                |
+[0;93;49m[worker 3] [0m| reinstall_app                        | false                                |
+[0;93;49m[worker 3] [0m| only_testing                         | ["collate_errorsUITests/collate_err  |
+[0;93;49m[worker 3] [0m|                                      | orsUITests3/testExample32",          |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample33",           |
+[0;93;49m[worker 3] [0m|                                      | "collate_errorsUITests/collate_erro  |
+[0;93;49m[worker 3] [0m|                                      | rsUITests3/testExample38"]           |
+[0;93;49m[worker 3] [0m| xctestrun                            | /Users/jdoshi/Documents/Jinesh/ios/  |
+[0;93;49m[worker 3] [0m|                                      | code/collate_errors/DerivedData/col  |
+[0;93;49m[worker 3] [0m|                                      | late_errors/Build/Products/collate   |
+[0;93;49m[worker 3] [0m|                                      | errors_iphonesimulator12.2-x86_64.x  |
+[0;93;49m[worker 3] [0m|                                      | ctestrun                             |
+[0;93;49m[worker 3] [0m| clean                                | false                                |
+[0;93;49m[worker 3] [0m| open_report                          | false                                |
+[0;93;49m[worker 3] [0m| output_files                         | report-3.junit,report-3.html         |
+[0;93;49m[worker 3] [0m| include_simulator_logs               | false                                |
+[0;93;49m[worker 3] [0m| derived_data_path                    | /var/folders/_v/385bsl711hj8mg07gcv  |
+[0;93;49m[worker 3] [0m|                                      | 518y80000gn/T/derived_data_path2019  |
+[0;93;49m[worker 3] [0m|                                      | 0830-44678-w6pu1u-worker-3           |
+[0;93;49m[worker 3] [0m| should_zip_build_products            | false                                |
+[0;93;49m[worker 3] [0m| use_clang_report_name                | false                                |
+[0;93;49m[worker 3] [0m| disable_concurrent_testing           | true                                 |
+[0;93;49m[worker 3] [0m| skip_build                           | false                                |
+[0;93;49m[worker 3] [0m| xcargs                               |  -parallel-testing-enabled NO        |
+[0;93;49m[worker 3] [0m| slack_use_webhook_configured_userna  | false                                |
+[0;93;49m[worker 3] [0m| me_and_icon                          |                                      |
+[0;93;49m[worker 3] [0m| slack_username                       | fastlane                             |
+[0;93;49m[worker 3] [0m| slack_icon_url                       | https://s3-eu-west-1.amazonaws.com/  |
+[0;93;49m[worker 3] [0m|                                      | fastlane.tools/fastlane.png          |
+[0;93;49m[worker 3] [0m| skip_slack                           | false                                |
+[0;93;49m[worker 3] [0m| slack_only_on_failure                | false                                |
+[0;93;49m[worker 3] [0m| xcodebuild_command                   | env NSUnbufferedIO=YES xcodebuild    |
+[0;93;49m[worker 3] [0m| xcode_path                           | /Applications/Xcode.app              |
+[0;93;49m[worker 3] [0m+--------------------------------------+--------------------------------------+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[11:59:11]: [0;36;49m$ set -o pipefail && env NSUnbufferedIO=YES xcodebuild -destination 'platform=iOS Simulator,id=79906515-9556-424B-B93B-D5A70D16750C' -derivedDataPath '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/derived_data_path20190830-44678-w6pu1u-worker-3' -resultBundlePath '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result' -disable-concurrent-testing -enableCodeCoverage YES -xctestrun '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/DerivedData/collate_errors/Build/Products/collate errors_iphonesimulator12.2-x86_64.xctestrun'  -parallel-testing-enabled NO -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample32 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample33 -only-testing:collate_errorsUITests/collate_errorsUITests3/testExample38 test-without-building | tee '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/worker-3-logs/collate_errors-collate errors.log' | xcpretty  --report junit --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report-3.junit' --report html --output '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/report-3.html' --report junit --output '/var/folders/_v/385bsl711hj8mg07gcv518y80000gn/T/junit_report20190830-44959-z7w7go' [0m
+[0;93;49m[worker 3] [0m[11:59:11]: ▸ [0;35;49mLoading...[0m
+[0;93;49m[worker 3] [0m[11:59:12]: ▸ [0;35;49m2019-08-30 11:59:12.485 xcodebuild[45586:7488779]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:[0m
+[0;93;49m[worker 3] [0m[11:59:12]: ▸ [0;35;49m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-FAEC9655-BA49-4A27-BF15-97AD1B8D1F64/collate_errorsUITests-AC01F453-112E-4660-B2BA-C1BA6EE64C8D/Session-collate_errorsUITests-2019-08-30_115912-lfY7ab.log[0m
+[0;93;49m[worker 3] [0m[11:59:12]: ▸ [0;35;49m2019-08-30 11:59:12.485 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: (88A1AFB2-9F8E-42E2-A5E8-D888F3B83905) Beginning test session collate_errorsUITests-88A1AFB2-9F8E-42E2-A5E8-D888F3B83905 at 2019-08-30 11:59:12.485 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7fa99e405b60> {[0m
+[0;93;49m[worker 3] [0m[11:59:12]: ▸ [0;35;49m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)[0m
+[0;93;49m[worker 3] [0m[11:59:12]: ▸ [0;35;49m} (12.2 (16E226))[0m
+[0;93;49m[worker 3] [0m[11:59:40]: ▸ [0;35;49m2019-08-30 11:59:40.374 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: (88A1AFB2-9F8E-42E2-A5E8-D888F3B83905) Finished requesting crash reports. Continuing with testing.[0m
+[0;93;49m[worker 3] [0m[11:59:42]: ▸ [0;35;49mSelected tests[0m
+[0;93;49m[worker 3] [0m[11:59:42]: ▸ [0;35;49mTest Suite [0m[0;35;49mcollate_errorsUITests.xctest[0m[0;35;49m started[0m
+[0;93;49m[worker 3] [0m[11:59:42]: ▸ [0;35;49mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[11:59:49]: ▸ [0;35;49m    [0m[0;35;49m✓[0m[0;35;49m testExample32 ([0m[0;35;49m6.176[0m[0;35;49m seconds)[0m
+[0;93;49m[worker 3] [0m[11:59:54]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample33, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[12:00:00]: ▸ [0;35;49m    [0m[0;35;49m✗[0m[0;35;49m testExample38, XCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49mcollate_errorsUITests.collate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m  testExample33, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m  testExample38, [0m[0;35;49mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m  [0m[0;35;49mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m[31m	 Executed 3 tests, with 2 failures (0 unexpected) in 18.664 (18.668) seconds[0m
+[0;93;49m[worker 3] [0m[12:00:01]: ▸ [0;35;49m[0m[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 68.800 elapsed -- Testing started completed.[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 68.800 sec, +68.800 sec -- end[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49mFailing tests:[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m	collate_errorsUITests:[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m		collate_errorsUITests3.testExample33()[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m		collate_errorsUITests3.testExample38()[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49mTest session results and logs:[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result[0m
+[0;93;49m[worker 3] [0m[12:00:21]: ▸ [0;35;49m** TEST EXECUTE FAILED **[0m
+[0;93;49m[worker 3] [0m2019-08-30 11:59:12.485 xcodebuild[45586:7488779]  IDETestOperationsObserverDebug: Writing diagnostic log for test session to:
+[0;93;49m[worker 3] [0m/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result/1_Test/Diagnostics/collate_errorsUITests-FAEC9655-BA49-4A27-BF15-97AD1B8D1F64/collate_errorsUITests-AC01F453-112E-4660-B2BA-C1BA6EE64C8D/Session-collate_errorsUITests-2019-08-30_115912-lfY7ab.log
+[0;93;49m[worker 3] [0m2019-08-30 11:59:12.485 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: (88A1AFB2-9F8E-42E2-A5E8-D888F3B83905) Beginning test session collate_errorsUITests-88A1AFB2-9F8E-42E2-A5E8-D888F3B83905 at 2019-08-30 11:59:12.485 with Xcode 10E1001 on target <DVTiPhoneSimulator: 0x7fa99e405b60> {
+[0;93;49m[worker 3] [0m		SimDevice: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840> (79906515-9556-424B-B93B-D5A70D16750C, iOS 12.2, Shutdown)
+[0;93;49m[worker 3] [0m} (12.2 (16E226))
+[0;93;49m[worker 3] [0m2019-08-30 11:59:40.374 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: (88A1AFB2-9F8E-42E2-A5E8-D888F3B83905) Finished requesting crash reports. Continuing with testing.
+[0;93;49m[worker 3] [0m[39;1mSelected tests[0m
+[0;93;49m[worker 3] [0mTest Suite [39;1mcollate_errorsUITests.xctest[0m started
+[0;93;49m[worker 3] [0m[39;1mcollate_errorsUITests3[0m
+[0;93;49m[worker 3] [0m    [32;1m✓[0m testExample32 ([31m6.176[0m seconds)
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample33, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m    [31m✗[0m testExample38, XCTAssertTrue failed
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mcollate_errorsUITests.collate_errorsUITests3
+[0;93;49m[worker 3] [0m  testExample33, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:55[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m  testExample38, [31mXCTAssertTrue failed[0m
+[0;93;49m[worker 3] [0m  [36mcollate_errorsUITests3.swift:105[0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[31m	 Executed 3 tests, with 2 failures (0 unexpected) in 18.664 (18.668) seconds
+[0;93;49m[worker 3] [0m[0m
+[0;93;49m[worker 3] [0m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 68.800 elapsed -- Testing started completed.
+[0;93;49m[worker 3] [0m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 0.000 sec, +0.000 sec -- start
+[0;93;49m[worker 3] [0m2019-08-30 12:00:21.271 xcodebuild[45586:7488754] [MT] IDETestOperationsObserverDebug: 68.800 sec, +68.800 sec -- end
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mFailing tests:
+[0;93;49m[worker 3] [0m	collate_errorsUITests:
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample33()
+[0;93;49m[worker 3] [0m		collate_errorsUITests3.testExample38()
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0mTest session results and logs:
+[0;93;49m[worker 3] [0m	/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests-batch-3/collate errors.test_result
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m** TEST EXECUTE FAILED **
+[0;93;49m[worker 3] [0m[12:00:27]: [0;31;49mExit status: 65[0m
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m|      Test Results      |
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m| Number of tests    | 3 |
+[0;93;49m[worker 3] [0m| Number of failures | [0;31;49m2[0m |
+[0;93;49m[worker 3] [0m+--------------------+---+
+[0;93;49m[worker 3] [0m
+[0;93;49m[worker 3] [0m[12:00:27]: [0;33;49mThe run of tests would finish with failures due to fragile tests here.[0m
+[12:00:31]: Finished collating test_result bundle to '/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate_errorsUITests/collate errors.test_result'
+
++--------------------------------------------------------------+--------------------------------------------------------------+
+|                                                     [0;32;49mmulti_scan results[0m                                                      |
++--------------------------------------------------------------+--------------------------------------------------------------+
+| result                                                       | false                                                        |
+| total_tests                                                  | 30                                                           |
+| passing_testcount                                            | 25                                                           |
+| failed_testcount                                             | 5                                                            |
+| failed_tests                                                 | ["collate_errorsUITests/collate_errorsUITests2/testExample2  |
+|                                                              | 5",                                                          |
+|                                                              | "collate_errorsUITests/collate_errorsUITests2/testExample26  |
+|                                                              | ",                                                           |
+|                                                              | "collate_errorsUITests/collate_errorsUITests1/testExample6"  |
+|                                                              | ,                                                            |
+|                                                              | "collate_errorsUITests/collate_errorsUITests3/testExample33  |
+|                                                              | ",                                                           |
+|                                                              | "collate_errorsUITests/collate_errorsUITests3/testExample38  |
+|                                                              | "]                                                           |
+| failure_details.collate_errorsUITests/collate_errorsUITests  | XCTAssertTrue failed                                         |
+| 2/testExample25.message                                      |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  |           collate_errorsUITests2.swift:75                    |
+| 2/testExample25.location                                     |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  | XCTAssertTrue failed                                         |
+| 2/testExample26.message                                      |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  |           collate_errorsUITests2.swift:85                    |
+| 2/testExample26.location                                     |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  | XCTAssertTrue failed                                         |
+| 1/testExample6.message                                       |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  |           collate_errorsUITests1.swift:85                    |
+| 1/testExample6.location                                      |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  | XCTAssertTrue failed                                         |
+| 3/testExample33.message                                      |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  |           collate_errorsUITests3.swift:55                    |
+| 3/testExample33.location                                     |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  | XCTAssertTrue failed                                         |
+| 3/testExample38.message                                      |                                                              |
+| failure_details.collate_errorsUITests/collate_errorsUITests  |           collate_errorsUITests3.swift:105                   |
+| 3/testExample38.location                                     |                                                              |
+| report_files                                                 | ["/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fa  |
+|                                                              | stlane/test_output/report.junit",                            |
+|                                                              | "/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fas  |
+|                                                              | tlane/test_output/report.html",                              |
+|                                                              | "/Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fas  |
+|                                                              | tlane/test_output/collate errors.test_result"]               |
++--------------------------------------------------------------+--------------------------------------------------------------+
+
+[12:00:32]: There are 5 legitimate failing tests
+
++------+----------------------+-------------+
+|             [0;32;49mfastlane summary[0m              |
++------+----------------------+-------------+
+| Step | Action               | Time (in s) |
++------+----------------------+-------------+
+| 1    | default_platform     | 0           |
+| 2    | rm -rf ./test_output | 0           |
+| 3    | multi_scan           | 483         |
++------+----------------------+-------------+
+
+[12:00:32]: [0;32;49mfastlane.tools just saved you 8 minutes! 🎉[0m
+[12:00:32]: Deleting iPhone Xʀ Clone 1 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840>
+[12:00:39]: Deleting iPhone Xʀ Clone 2 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840>
+[12:00:46]: Deleting iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70221175503840>

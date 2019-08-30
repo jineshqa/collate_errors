@@ -1,0 +1,10 @@
+User defaults from command line:
+    IDEBuildOperationResultBundlePath = /Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/fastlane/test_output/collate errors.test_result
+    IDEDerivedDataPathOverride = /Users/jdoshi/Documents/Jinesh/ios/code/collate_errors/DerivedData/collate_errors
+
+note: Using new build system
+note: Planning build
+note: Using build description from disk
+
+** TEST BUILD SUCCEEDED ** [0.278 sec]
+

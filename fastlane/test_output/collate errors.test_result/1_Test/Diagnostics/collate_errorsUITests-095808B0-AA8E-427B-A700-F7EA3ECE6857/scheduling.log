@@ -1,0 +1,5 @@
+2019-08-30 22:16:22 +0000: Received worker from worker provider: 0x7f85e2c16300 [0: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (8A2E77FF-1D53-489C-B974-AD5677A2459B)]
+2019-08-30 22:16:58 +0000: Worker 0x7f85e2c16300 [51264: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (8A2E77FF-1D53-489C-B974-AD5677A2459B)] finished bootstrapping
+2019-08-30 22:16:58 +0000: Parallelization disabled; test execution driven by the test process
+2019-08-30 22:17:17 +0000: Worker 0x7f85e2c16300 [51264: iPhone Xʀ Clone 3 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (8A2E77FF-1D53-489C-B974-AD5677A2459B)] finished successfully
+2019-08-30 22:17:17 +0000: Finished executing tests (cancelled: No)

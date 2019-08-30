@@ -1,0 +1,6 @@
+Standard output and standard error from pro.jinesh.collate-errors with process ID 51266 beginning at 15:17:01.601
+
+Standard output and standard error from pro.jinesh.collate-errors with process ID 51273 beginning at 15:17:07.733
+
+Standard output and standard error from pro.jinesh.collate-errors with process ID 51274 beginning at 15:17:13.683
+
