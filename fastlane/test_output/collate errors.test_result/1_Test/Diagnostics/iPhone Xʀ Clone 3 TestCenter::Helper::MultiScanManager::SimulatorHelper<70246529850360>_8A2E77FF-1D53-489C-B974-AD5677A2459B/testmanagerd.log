@@ -1,6 +1,0 @@
-15:16:57.964 xcodebuild[51141:7583459] Got authorization request for pid 51264
-
-15:16:57.964 xcodebuild[51141:7583459] Requesting authorization for pid 51264
-
-15:16:58.101 xcodebuild[51141:7583459] Got reply to authorization request for pid 51264 (result:error): 1: (null)
-

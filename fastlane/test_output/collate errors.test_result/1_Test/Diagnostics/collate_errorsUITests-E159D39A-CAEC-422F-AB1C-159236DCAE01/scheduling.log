@@ -1,5 +1,0 @@
-2019-08-30 22:15:33 +0000: Received worker from worker provider: 0x7fd8bb776670 [0: iPhone Xʀ Clone 1 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (B190A1E8-B2DC-4A06-BDB0-4ECBDA1BECA3)]
-2019-08-30 22:15:34 +0000: Worker 0x7fd8bb776670 [51101: iPhone Xʀ Clone 1 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (B190A1E8-B2DC-4A06-BDB0-4ECBDA1BECA3)] finished bootstrapping
-2019-08-30 22:15:34 +0000: Parallelization disabled; test execution driven by the test process
-2019-08-30 22:16:07 +0000: Worker 0x7fd8bb776670 [51101: iPhone Xʀ Clone 1 TestCenter::Helper::MultiScanManager::SimulatorHelper<70246529850360> (B190A1E8-B2DC-4A06-BDB0-4ECBDA1BECA3)] finished successfully
-2019-08-30 22:16:07 +0000: Finished executing tests (cancelled: No)
