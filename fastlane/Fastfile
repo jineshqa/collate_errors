@@ -16,7 +16,7 @@
 default_platform(:ios)
 
 platform :ios do
-  lane :sweep do |options|
+  lane :sweep do
     begin
       sh 'rm -rf ./test_output'
     rescue
@@ -40,14 +40,14 @@ platform :ios do
       fail_build: false,
       scheme: 'collate errors',
       result_bundle: true,
-      device: "iPhone Xʀ (12.2)",
+      device: "iPhone 11 (13.1)",
       testrun_completed_block: test_run_block,
       output_directory: './fastlane/test_output',
       output_types: 'junit,html',
       buildlog_path: './fastlane/test_output/',
       code_coverage: true,
       invocation_based_tests: false,
-      parallel_testrun_count: 3
+      parallel_testrun_count: 2
     )
     unless result[:failed_testcount].zero?
       UI.message("There are #{result[:failed_testcount]} legitimate failing tests")
