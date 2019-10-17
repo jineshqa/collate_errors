@@ -1,2 +1,7 @@
 DerivedData/
 fastlane/test_output/
+**/collate_errors.xcodeproj/project.xcworkspace/xcuserdata/**
+**/collate_errors.xcodeproj/xcshareddata/**
+.bundle/
+.byebug_history
+vendor/**
