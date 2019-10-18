@@ -38,7 +38,7 @@ platform :ios do
     result = multi_scan(
       try_count: 3,
       fail_build: false,
-      scheme: 'collate errors',
+      scheme: 'collate_errors',
       result_bundle: true,
       device: "iPhone 11 (13.1)",
       testrun_completed_block: test_run_block,

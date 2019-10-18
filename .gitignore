@@ -5,3 +5,4 @@ fastlane/test_output/
 .bundle/
 .byebug_history
 vendor/**
+**collate_errors.xcodeproj/xcshareddata**

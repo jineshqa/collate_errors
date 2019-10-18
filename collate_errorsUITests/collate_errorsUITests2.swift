@@ -76,55 +76,55 @@ class collate_errorsUITests2: XCTestCase {
         }
     }
     
-    func testExample26() {
-        let number = Int.random(in: 0 ..< 10)
-        
-        if number % 2 == 0 {
-            XCTAssert(true)
-        } else {
-            XCTAssert(false)
-        }
-    }
-    
-    func testExample27() {
-        let number = Int.random(in: 0 ..< 10)
-        
-        if number % 2 == 0 {
-            XCTAssert(true)
-        } else {
-            XCTAssert(false)
-        }
-    }
-    
-    func testExample28() {
-        let number = Int.random(in: 0 ..< 10)
-        
-        if number % 2 == 0 {
-            XCTAssert(true)
-        } else {
-            XCTAssert(false)
-        }
-    }
-    
-    func testExample29() {
-        let number = Int.random(in: 0 ..< 10)
-        
-        if number % 2 == 0 {
-            XCTAssert(true)
-        } else {
-            XCTAssert(false)
-        }
-    }
-    
-    func testExample30() {
-        let number = Int.random(in: 0 ..< 10)
-        
-        if number % 2 == 0 {
-            XCTAssert(true)
-        } else {
-            XCTAssert(false)
-        }
-    }
+//    func testExample26() {
+//        let number = Int.random(in: 0 ..< 10)
+//        
+//        if number % 2 == 0 {
+//            XCTAssert(true)
+//        } else {
+//            XCTAssert(false)
+//        }
+//    }
+//    
+//    func testExample27() {
+//        let number = Int.random(in: 0 ..< 10)
+//        
+//        if number % 2 == 0 {
+//            XCTAssert(true)
+//        } else {
+//            XCTAssert(false)
+//        }
+//    }
+//    
+//    func testExample28() {
+//        let number = Int.random(in: 0 ..< 10)
+//        
+//        if number % 2 == 0 {
+//            XCTAssert(true)
+//        } else {
+//            XCTAssert(false)
+//        }
+//    }
+//    
+//    func testExample29() {
+//        let number = Int.random(in: 0 ..< 10)
+//        
+//        if number % 2 == 0 {
+//            XCTAssert(true)
+//        } else {
+//            XCTAssert(false)
+//        }
+//    }
+//    
+//    func testExample30() {
+//        let number = Int.random(in: 0 ..< 10)
+//        
+//        if number % 2 == 0 {
+//            XCTAssert(true)
+//        } else {
+//            XCTAssert(false)
+//        }
+//    }
     
 }
 
